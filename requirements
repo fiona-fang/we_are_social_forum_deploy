@@ -1,7 +1,7 @@
 Django==1.8.7
 MySQL-Python==1.2.5
 Pillow==2.9.0
-Scapy==0.16.4
+Scrapy==0.16.4
 Twisted==13.2.0
 arrow==0.7.0
 beautifulsoup4==4.4.1
